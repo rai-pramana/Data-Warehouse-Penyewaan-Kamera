@@ -6,5 +6,5 @@ Disusun Oleh:
 * I Gusti Ngurah Bagus Picesa Kresna Mandala	(2105551097)
 
 Mata Kuliah: Pangkalan Data (C)
- 
+
 Dosen Pengampu: Dwi Putra Githa, S.T., M.T.
