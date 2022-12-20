@@ -1,6 +1,6 @@
 # Data-Warehouse-Penyewaan-Kamera
 
-DISUSUN OLEH:
+Disusun Oleh:
 
 I Kadek Rai Pramana 	                      (2105551094)
 
