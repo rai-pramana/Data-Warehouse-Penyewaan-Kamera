@@ -2,7 +2,7 @@
 
 Disusun Oleh:
 
-I Kadek Rai Pramana 	                      (2105551094)
+* I Kadek Rai Pramana 	                      (2105551094)
 
 I Nengah Raditnyana 	                      (2105551095)
 
